@@ -1,7 +1,7 @@
 {
-  "name": "vite_react_shadcn_ts",
+  "name": "cadastro",
   "private": true,
-  "homepage": "https://felipeleaoc.github.io/blood-donor-scheduler",
+  "homepage": "https://dgp-tjgo.github.io/cadastro",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
